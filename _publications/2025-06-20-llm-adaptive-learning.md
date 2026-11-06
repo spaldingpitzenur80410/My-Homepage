@@ -10,5 +10,5 @@ slidesurl: 'http://yourwebsite.com/files/slides-llm-adaptive-learning.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-llm-adaptive-learning.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-llm-adaptive-learning.bib'
 codeurl: 'https://github.com/spaldingpitzenur80410/llm-adaptive-learning'
-citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." \u003ci\u003eAccepted at ICML 2025 - International Conference on Machine Learning\u003c/i\u003e.'
+citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Accepted at ICML 2025 - International Conference on Machine Learning</i>.'
 ---
